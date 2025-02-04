@@ -1,12 +1,12 @@
-#Tuxborn Lite on Steam Deck#
+# Tuxborn Lite on Steam Deck
 
-##Writing in progress, please come back soon for the completed guide...##
+## Writing in progress, please come back soon for the completed guide...
 
-##Description##
+### Description
 
 A basic guide on getting a 'lite' version of Tuxborn working on Valve's Steam Deck, along with my advice, warnings, and random thoughts.
 
-##Preamble##
+### Preamble 
 
 So, you wanna run a gigantic modified Skyrim install on your Steam Deck. You wanna do it with one of the big, famous load orders like Tuxborn, but you don't have an actual gaming PC to run Wabbajack. You also might be something of a masochist with a lot of time on your hands. Well, you're in good company.
 
@@ -16,7 +16,7 @@ Note: This guide is not perfect or exact. I will not cover every glitch I encoun
 
 Above all else, I assume that you are patient—this process is long and often frustrating. It will pay off in spades, but only if you can handle it.
 
-##Why a Reduced/'Lite' Version?##
+## Why a Reduced/'Lite' Version?
 
 Tuxborn is designed with the Steam Deck in mind, but there are some challenges:
 
@@ -39,33 +39,21 @@ Leading to my next point...
      - Fewer patches needed 🛠️
      - Easier debugging 🔍
 
-##The Process##
+## The Process#
 
-1️⃣ Install Skyrim
+1. Install Skyrim
+   - Ensure you have a clean install—no mods, no tweaks, nothing.
+2. Start Skyrim once
+   - Launch the game once and get to the main menu to generate .ini and config files. Close Skyrim afterward.
+3. Install Mod Organizer 2
+   - Download and install the Rockerbacon version of MO2 for Linux.
+4. Configure MO2
+   - Set it up with your Skyrim install. When it asks for a clean prefix, ignore this and use the default setup. Details below...
+5. Download & Install Mods
+   - This step needs no explanation. 😎
 
-Ensure you have a clean install—no mods, no tweaks, nothing.
 
-2️⃣ Start Skyrim
 
-Launch the game once and get to the main menu to generate .ini and config files.
-
-Close Skyrim afterward.
-
-3️⃣ Install Mod Organizer 2
-
-Download and install the Rockerbacon version of MO2 for Linux.
-
-4️⃣ Configure MO2
-
-Set it up with your Skyrim install.
-
-When it asks for a clean prefix, ignore this and use the default setup.
-
-5️⃣ Download & Install Mods
-
-This step needs no explanation. 😎
-
-6️⃣ ... (More steps coming soon!)
 
 ⚠️ Disclaimer
 
