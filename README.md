@@ -41,7 +41,7 @@ Tuxborn is designed with the Steam Deck in mind, but there are some challenges:
      - Fewer patches needed 🛠️
      - Easier debugging 🔍
 
-## The Process
+## The Overview
 
 1. Install Skyrim
    - Ensure you have a clean install—no mods, no tweaks, nothing.
@@ -63,6 +63,17 @@ Tuxborn is designed with the Steam Deck in mind, but there are some challenges:
      - If you encounter any problems, check your logs and debug the problem. Start a new baby each time.
      - Yes, this is tedious as hell, but it's better to encounter the problems here than on your main character 100+ hours in. 
      - Take some time to experiment with your new mods functions. Tinker with the in-game MCM to experiment and see what you like and dislike. Remember your settings for your main playthrough.
+10. Enjoy the fruits of your labor
+    - Todd Howard you've done it again. Now go brag to your friends about the monstrosity you got running on your deck.
+   
+
+## 1 - 2
+   - Not gonna elaborate on these, should be self explanatory
+## 3
+   - Download and install the rockerbacon version of MO2. Follow the instructions exactly. Make sure to install dependencies like 7z and protontricks.
+     - If it is your first time in MO2, follow the tutorial to learn how the interface works.
+## 4
+   - When launching MO2, select SkyrimSE, and follow the on screen prompts. When prompted to 
 
 
 
