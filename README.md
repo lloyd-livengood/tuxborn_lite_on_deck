@@ -24,7 +24,8 @@ Tuxborn is designed with the Steam Deck in mind, but there are some challenges:
    - Tuxborn normally requires a Windows PC to prepare the installation before transferring it to the Deck. However, Wabbajack does not support Linux. This guide circumvents that limitation—every step can be followed natively on the Deck without a PC.
      - Recommended Hardware:
        - USB-C Dongle – To connect a keyboard and mouse (MnK)
-       - Mouse & Keyboard – I found a Razer mouse at Goodwill for $1.50 and a nice clicky keyboard for $6. Don't give Bezos more money; support your local thrift store. You can do it without MnK (using the touchscreen and Steam Deck’s keyboard), but it will be painfully clunky.
+       - Mouse & Keyboard – I found a Razer mouse at Goodwill for $1.50 and a nice clicky keyboard for $6. Don't give Bezos more money; support your local thrift store.
+         - You can do it without MnK (using the touchscreen and keyboard invocation), but it will be painfully clunky.
 
 2. No Supermodel NPCs
    - Tuxborn is a great load order, but it includes mods like CBBE and Himbo, which I personally don’t care for. Removing these mods also eliminates several dozen required compatibility patches, making the list:
@@ -34,12 +35,13 @@ Tuxborn is designed with the Steam Deck in mind, but there are some challenges:
      - Leading to my next point...
 
 3. Tuxborn is Huge
-   - Tuxborn has over 1,500 mods, which significantly increases load times. My lite version has ~570 mods. It takes my Deck about 2 minutes to spin up from Mod Organizer 2 (MO2). A full Tuxborn setup takes much longer. If you're playing on a short commute, waiting for Skyrim to load might not be ideal. A shorter list means:
+   - Tuxborn has over 1,500 mods, which significantly increases load times. My lite version has ~570 mods. It takes my Deck about 2 minutes to spin up from Mod Organizer 2 (MO2). A full Tuxborn setup takes much longer. If you're playing on a short commute, waiting for Skyrim to load might not be ideal.
+   - A shorter list means:
      - Faster load times 🚀
      - Fewer patches needed 🛠️
      - Easier debugging 🔍
 
-## The Process#
+## The Process
 
 1. Install Skyrim
    - Ensure you have a clean install—no mods, no tweaks, nothing.
@@ -50,8 +52,17 @@ Tuxborn is designed with the Steam Deck in mind, but there are some challenges:
 4. Configure MO2
    - Set it up with your Skyrim install. When it asks for a clean prefix, ignore this and use the default setup. Details below...
 5. Download & Install Mods
-   - This step needs no explanation. 😎
-
+   - No real explanation needed, but I'll give some advice down below.
+6. Test test test
+   - Test often, every 10 mod additions or so. Some people will start a character and explore for a minute, but even loading to main menu is often enough to encounter major CTDs.
+7. Repeat 5 and 6 until satisfied
+8. Calibrate
+   - Get your settings right - edit inis and cfgs for increased performance and stability.
+9. Do some 'baby' playthroughs
+   - Start a character, but don't get attached. Play for about half an hour, and try traveling the world and check for major issues or CTDs.
+     - If you encounter any problems, check your logs and debug the problem. Start a new baby each time.
+     - Yes, this is tedious as hell, but it's better to encounter the problems here than on your main character 100+ hours in. 
+     - Take some time to experiment with your new mods functions. Tinker with the in-game MCM to experiment and see what you like and dislike. Remember your settings for your main playthrough.
 
 
 
