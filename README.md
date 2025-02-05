@@ -8,7 +8,7 @@ A basic guide on getting a 'lite' version of Tuxborn working on Valve's Steam De
 
 ### Preamble 
 
-So, you wanna run a gigantic modified Skyrim install on your Steam Deck. You wanna do it with one of the big, famous load orders like Tuxborn, but you don't have an actual gaming PC to run Wabbajack. You also might be something of a masochist with a lot of time on your hands. Well, you're in good company.
+So, you wanna run a gigantic modified Skyrim install on your Steam Deck. You wanna do it with one of the big, famous load orders like Tuxborn, but you don't have an actual gaming PC to run Wabbajack. You also might be something of a masochist with a lot of time on your hands. Well, you're in good company. I'm not a modding god, I'm just an average guy with a the aforementioned traits. This is some advice from an average guy to the average person, accessibly.
 
 This guide covers my journey to getting a reduced/'lite' version of the Tuxborn load order running on my Deck.
 
@@ -48,7 +48,7 @@ Tuxborn is designed with the Steam Deck in mind, but there are some challenges:
 2. Start Skyrim once
    - Launch the game once and get to the main menu to generate .ini and config files. Close Skyrim afterward.
 3. Install Mod Organizer 2
-   - Download and install the Rockerbacon version of MO2 for Linux.
+   - Download and install the Rockerbacon version of MO2 for Linux. Follow their instructions exactly, I ain't gonna regurgitate them.
 4. Configure MO2
    - Set it up with your Skyrim install. When it asks for a clean prefix, ignore this and use the default setup. Details below...
 5. Download & Install Mods
@@ -73,7 +73,12 @@ Tuxborn is designed with the Steam Deck in mind, but there are some challenges:
    - Download and install the rockerbacon version of MO2. Follow the instructions exactly. Make sure to install dependencies like 7z and protontricks.
      - If it is your first time in MO2, follow the tutorial to learn how the interface works.
 ## 4
-   - When launching MO2, select SkyrimSE, and follow the on screen prompts. When prompted to 
+   - When launching MO2, select SkyrimSE, and follow the on screen prompts. When prompted to do a clean prefix, DON'T. If you followed the above steps, you will have a clean prefix. Something about this check is not working right. Take the 'risk' and skip.
+## 5 
+   - Straighforward. Follow a LO you see online, even mine, and install the mods one-by-one. Tips and tricks:
+     - Order is important in that it will make it easier for you to follow where you are. Put the LO in one window, highlight the next mod, copy paste the google search for the nexus listing, read the description, download, then load in through M02
+       - You can make this even faster by downloading the mods directly to the directory where MO2 is reading them.
+ 
 
 
 
