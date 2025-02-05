@@ -8,7 +8,7 @@ A basic guide on getting a 'lite' version of Tuxborn working on Valve's Steam De
 
 ### Preamble 
 
-So, you wanna run a gigantic modified Skyrim install on your Steam Deck. You wanna do it with one of the big, famous load orders like Tuxborn, but you don't have an actual gaming PC to run Wabbajack. You also might be something of a masochist with a lot of time on your hands. Well, you're in good company. I'm not a modding god, I'm just an average guy with a the aforementioned traits. This is some advice from an average guy to the average person, accessibly.
+So, you wanna run a gigantic modified Skyrim install on your Steam Deck. You wanna do it with one of the big, famous load orders like Tuxborn, but you don't have an actual gaming PC to run Wabbajack. You also might be something of a masochist with a lot of time on your hands. Well, you're in good company. I'm not a modding god, I'm just an average guy with the aforementioned traits. This is some advice from an average guy to the average person, accessibly.
 
 This guide covers my journey to getting a reduced/'lite' version of the Tuxborn load order running on my Deck.
 
