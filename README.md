@@ -76,8 +76,9 @@ Tuxborn is designed with the Steam Deck in mind, but there are some challenges:
    - When launching MO2, select SkyrimSE, and follow the on screen prompts. When prompted to do a clean prefix, DON'T. If you followed the above steps, you will have a clean prefix. Something about this check is not working right. Take the 'risk' and skip.
 ## 5 
    - Straighforward. Follow a LO you see online, even mine, and install the mods one-by-one. Tips and tricks:
-     - Order is important in that it will make it easier for you to follow where you are. Put the LO in one window, highlight the next mod, copy paste the google search for the nexus listing, read the description, download, then load in through M02
+     - Order is important in that it will make it easier for you to follow where you are. Put the LO on the right half of your screen, and MO2 on the left. Highlight the next mod, copy paste into a google search for the nexus listing, read the description, download, then load in through M02
        - You can make this even faster by downloading the mods directly to the directory where MO2 is reading them.
+       - I ultimately paid for one month of Nexus premium for the faster download speeds- some mods like LOTD are **Massive** and a huge amount of your time will be spent waiting for the download otherwise. 
  
 
 
